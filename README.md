@@ -8,7 +8,7 @@
 
 ---
 
-# Canvas Context의 WebGL Draw API 입니다.
+# WebGL Draw API 입니다.
 
 - 많은 다량의 랜더링을 고려하여 성능 위주의 코드로 작성 되었습니다.
 
