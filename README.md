@@ -27,7 +27,7 @@
 
 ```javascript
 const CANVAS = TAPI.ge('ID-CANVAS');
-const CONTEXT = CANVAS.getContext('webgl');
+const WEBGL = CANVAS.getContext('webgl');
 
 const EVENT_LISTENERS = {
 
